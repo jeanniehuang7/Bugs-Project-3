@@ -1,0 +1,5 @@
+colony: reallydumb
+
+start: 
+	moveForward
+	goto start
